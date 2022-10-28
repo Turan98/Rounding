@@ -1,0 +1,15 @@
+D:\CSharp\Console\okruqleniye\bin\Debug\net6.0\okruqleniye.exe
+D:\CSharp\Console\okruqleniye\bin\Debug\net6.0\okruqleniye.deps.json
+D:\CSharp\Console\okruqleniye\bin\Debug\net6.0\okruqleniye.runtimeconfig.json
+D:\CSharp\Console\okruqleniye\bin\Debug\net6.0\okruqleniye.dll
+D:\CSharp\Console\okruqleniye\bin\Debug\net6.0\okruqleniye.pdb
+D:\CSharp\Console\okruqleniye\obj\Debug\net6.0\okruqleniye.csproj.AssemblyReference.cache
+D:\CSharp\Console\okruqleniye\obj\Debug\net6.0\okruqleniye.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\Console\okruqleniye\obj\Debug\net6.0\okruqleniye.AssemblyInfoInputs.cache
+D:\CSharp\Console\okruqleniye\obj\Debug\net6.0\okruqleniye.AssemblyInfo.cs
+D:\CSharp\Console\okruqleniye\obj\Debug\net6.0\okruqleniye.csproj.CoreCompileInputs.cache
+D:\CSharp\Console\okruqleniye\obj\Debug\net6.0\okruqleniye.dll
+D:\CSharp\Console\okruqleniye\obj\Debug\net6.0\refint\okruqleniye.dll
+D:\CSharp\Console\okruqleniye\obj\Debug\net6.0\okruqleniye.pdb
+D:\CSharp\Console\okruqleniye\obj\Debug\net6.0\okruqleniye.genruntimeconfig.cache
+D:\CSharp\Console\okruqleniye\obj\Debug\net6.0\ref\okruqleniye.dll

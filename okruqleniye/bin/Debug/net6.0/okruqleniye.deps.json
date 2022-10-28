@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "okruqleniye/1.0.0": {
+        "runtime": {
+          "okruqleniye.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "okruqleniye/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
